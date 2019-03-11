@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+BLUE,MM,Blue,Blue Route,,3,,0000FF,FFFFFF
+GREEN,MM,Green,Green Route,,3,,800000,FFFFFF
+ORANGE,MM,Orange,Orange Route,,3,,FFA500,000000
+PURPLE1,MM,Purple1,Purple Express #1,,3,,800080,FFFFFF
+PURPLE2,MM,Purple2,Purple Express #2,,3,,800080,FFFFFF
+RED,MM,Red,Red Route,,3,,FF0000,000000
+YELLOW,MM,Yellow,Yellow Route,,3,,FFFF00,000000

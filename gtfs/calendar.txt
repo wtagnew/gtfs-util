@@ -1,0 +1,9 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+ExtWeekend,0,0,0,0,1,1,1,20120901,20141231
+FriSat,0,0,0,0,1,1,0,20120901,20141231
+FullWeek,1,1,1,1,1,1,1,20120901,20141231
+ShortWeek,1,1,1,1,0,0,1,20120901,20141231
+Sun,0,0,0,0,0,0,1,20120901,20141231
+Week,1,1,1,1,1,0,0,20120901,20141231
+WeekAndSun,1,1,1,1,1,0,1,20120901,20141231
+Weekend,0,0,0,0,0,1,1,20120901,20141231
